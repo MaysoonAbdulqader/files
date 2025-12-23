@@ -1,0 +1,11 @@
+[
+  {
+    "index": "job_application",
+    "filter": {
+      "job_post": {
+        "$in": [
+          "694941625290ecff9fd67e4b"        ]
+      }
+    }
+  }
+]
