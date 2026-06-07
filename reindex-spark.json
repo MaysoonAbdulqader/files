@@ -1,0 +1,10 @@
+[
+  {
+    "index": "interview",
+    "filter": {
+      "_id": {
+        "$in": ["6a251af84989d2de83f48228","6a251a3ce47dbc32d2ee4848"]
+      }
+    }
+  }
+]
