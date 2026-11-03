@@ -2,19 +2,19 @@
   {
     "index": "job_post",
     "filter": {
-      "_id": "6a7b1eb21bf614c93c1586d4"        
+      "_id": "6ac75f17181b46503e6c8d44"        
     }
   },
   {
     "index": "job_application",
     "filter": {
-      "job_post": "6a7b1eb21bf614c93c1586d4"        
+      "job_post": "6ac75f17181b46503e6c8d44"        
     }
   },
   {
     "index": "application_milestone",
     "filter": {
-      "job_post": "6a7b1eb21bf614c93c1586d4"        
+      "job_post": "6ac75f17181b46503e6c8d44"        
     }
   }
 ]
