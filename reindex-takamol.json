@@ -1,9 +1,9 @@
 [
   {
-    "index": "interview",
+    "index": "job_application",
     "filter": {
       "_id": {
-        "$in": ["696392a00e1beed4d8f4b9e4","696f6080af1f4a480d028419","697afb0faf1f4a480dcd8b30"]
+        "$in": ["6af4726ccc54e562cc80dda4","6af46f4ecc54e562cc809e5b","6af47450f24c151c5aa1b2ed"]
       }
     }
   }
